@@ -1,0 +1,5 @@
+0000000000000000000000000000000000000000 88787df2eb0f17bc1b7619687c8592f7569c183a nimaCod <t.nima.tajik@gmail.com> 1713729650 +0330	clone: from https://github.com/nimaCod/SE01-A05-fresh
+88787df2eb0f17bc1b7619687c8592f7569c183a e22c158ee3bbdbfd8ddb474a437b127f817b8f47 nimaCod <t.nima.tajik@gmail.com> 1713731462 +0330	commit: Bug fix on Iceberg status=null'
+e22c158ee3bbdbfd8ddb474a437b127f817b8f47 68fc3c6f5333deff1639d827f3dd1e9cefa70ae4 nimaCod <t.nima.tajik@gmail.com> 1713731474 +0330	pull (start): checkout 68fc3c6f5333deff1639d827f3dd1e9cefa70ae4
+68fc3c6f5333deff1639d827f3dd1e9cefa70ae4 ca72e5856ffc715cabe3edc35ff4747c5ad247a3 nimaCod <t.nima.tajik@gmail.com> 1713731474 +0330	pull (pick): Bug fix on Iceberg status=null'
+ca72e5856ffc715cabe3edc35ff4747c5ad247a3 ca72e5856ffc715cabe3edc35ff4747c5ad247a3 nimaCod <t.nima.tajik@gmail.com> 1713731474 +0330	pull (finish): returning to refs/heads/main

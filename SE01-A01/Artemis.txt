@@ -1,0 +1,1 @@
+"E:\NIMA\SE\apache-artemis-2.32.0\bin\broker\bin\artemis" run

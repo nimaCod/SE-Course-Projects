@@ -1,0 +1,20 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "origin"]
+	url = https://github.com/nimaCod/SE01-A02.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[credential]
+	username = nimaCod
+[branch "main"]
+	remote = origin
+	merge = refs/heads/main
+[branch "initial-commit"]
+	vscode-merge-base = origin/main
+	remote = origin
+	merge = refs/heads/initial-commit
+	github-pr-owner-number = "nimaCod#SE01-A02#1"
